@@ -1,0 +1,6 @@
+com/devhoss/SpringBootJpaH2Application.class
+com/devhoss/service/PersonaServiceImpl.class
+com/devhoss/controller/PersonasController.class
+com/devhoss/repository/IPersonaRepository.class
+com/devhoss/service/IPersonaService.class
+com/devhoss/model/Persona.class

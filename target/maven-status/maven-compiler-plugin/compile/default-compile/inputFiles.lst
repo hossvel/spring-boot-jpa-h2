@@ -1,0 +1,6 @@
+/home/hossmell/Documentos/Repositorio-git/spring-boot-jpa-h2/spring-boot-jpa-h2/src/main/java/com/devhoss/service/PersonaServiceImpl.java
+/home/hossmell/Documentos/Repositorio-git/spring-boot-jpa-h2/spring-boot-jpa-h2/src/main/java/com/devhoss/controller/PersonasController.java
+/home/hossmell/Documentos/Repositorio-git/spring-boot-jpa-h2/spring-boot-jpa-h2/src/main/java/com/devhoss/SpringBootJpaH2Application.java
+/home/hossmell/Documentos/Repositorio-git/spring-boot-jpa-h2/spring-boot-jpa-h2/src/main/java/com/devhoss/service/IPersonaService.java
+/home/hossmell/Documentos/Repositorio-git/spring-boot-jpa-h2/spring-boot-jpa-h2/src/main/java/com/devhoss/repository/IPersonaRepository.java
+/home/hossmell/Documentos/Repositorio-git/spring-boot-jpa-h2/spring-boot-jpa-h2/src/main/java/com/devhoss/model/Persona.java
