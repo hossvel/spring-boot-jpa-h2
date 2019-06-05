@@ -1,4 +1,4 @@
-# spring-boot-jpa-h2
+# Spring-boot-jpa-h2
 
 # GET
 http://localhost:8081/personas/findall
