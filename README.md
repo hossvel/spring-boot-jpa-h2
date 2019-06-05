@@ -7,7 +7,7 @@ http://localhost:8081/personas/findall
 http://localhost:8081/personas
 ```json
  {
- 	"id":1201,
+ 	"id":0,
  	"nombre":"devhoss",
  	"edad":32
  	
