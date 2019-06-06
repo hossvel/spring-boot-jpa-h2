@@ -9,7 +9,7 @@ http://localhost:8081/personas
  {
  	"id":0,
  	"nombre":"devhoss",
- 	"edad":32
+ 	"edad":30
  	
  }
 ```
